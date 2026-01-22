@@ -5,7 +5,7 @@ score = int(input("What's your score for both attestations?"))
 
 if score > cooked and score <= great:
     print("Great! u've still got hope")
-#elif score > great or score < 0:
-    #print("liar.")
+elif score > great or score < 0:
+    print("liar.")
 else:
     print("you are cooked!")
