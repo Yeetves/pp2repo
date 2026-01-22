@@ -9,3 +9,5 @@ elif score > great or score < 0:
     print("liar.")
 else:
     print("you are cooked!")
+
+# this code is secured in case of idiots!!
