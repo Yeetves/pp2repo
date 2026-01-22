@@ -4,4 +4,4 @@ print("I lied!")
 
 print((2+2)*2)
 
-print("Of course, it's ", 6, ", don't u think I'm a fool?")
+print("Of course, it's ", 6, ", don't u think I'm a fool?", sep="")
