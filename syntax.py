@@ -2,6 +2,7 @@ great = 60
 cooked = 29
 
 score = int(input("What's your score for both attestations?"))
+print(type(score))
 
 if score > cooked and score <= great:
     print("Great! u've still got hope")

@@ -5,5 +5,5 @@ name3 = name2 #they are kinda the same
 
 print("Byebye...", name4)
 print("Bye...", name3)
-print("See you later,", name2)
+print(f"See you later, {name2}")
 print("Good bye,", name1)
