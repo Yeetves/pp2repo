@@ -1,0 +1,25 @@
+a ab abb abbb abbbb aab abb abb
+
+Yesterday I met Alice, Bob, and Charlie. We talked about Python, RegexTools and DataScienceProjects.
+The meeting was organized by OpenAIResearchGroup and supported by TechCommunity.
+
+Here are some snake_case variables:
+first_variable second_value my_test_string data_point example_text another_example
+
+Some CamelCaseWordsAreAlsoHere:
+MachineLearningModel DataProcessingPipeline SimpleTestCase AnotherExampleWord
+
+We also have mixed strings like:
+a123b a_test_b aXYZb aHELLOworldb
+
+Some uppercase followed by lowercase words:
+London Paris Tokyo Berlin Madrid Astana Almaty
+
+Random punctuation examples.
+This text, contains several sentences. Some words, are separated by commas, others by dots.
+
+More snake_case examples for conversion:
+convert_this_string another_test_case simple_example final_result
+
+And more CamelCase strings:
+ConvertThisString SplitThisWord ExampleTextForTesting RegexPracticeTask
